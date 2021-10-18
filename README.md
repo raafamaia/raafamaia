@@ -8,9 +8,9 @@ I am **Rafael Maia** working as **Sr. Software Engineer @ XP Inc.**.
 
 ---
 
-- 🔭 I’m currently working as **Sr. Software Engineer @ XP Inc.**
-- 🌱 I’m currently learning **React JS**
-- 👯 I’m looking to collaborate on open source projects
+- 🚀   I’m currently working as **Sr. Software Engineer @ XP Inc.**
+- 🌱   I’m currently learning **React JS**
+- 👯   I’m looking to collaborate on open source projects
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raafamaia&layout=compact&theme=dark&hide_border=true)
 
