@@ -15,9 +15,7 @@ I am **Rafael Maia** working as **Sr. Software Engineer @ XP Inc.**.
 
 ##
 
-- 🚀   I’m currently working as **Sr. Software Engineer @ XP Inc.**
-- 🌱   I’m currently learning **React JS**
-- 👯   I’m looking to collaborate on open source projects
+- 🚀   I’m currently working as **Engineer Manager / Sr. Software Engineer @ XP Inc.**
 
 ##
 
