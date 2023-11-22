@@ -8,7 +8,7 @@
 ##
 
 I am **Rafael Maia** working as **Sr. Software Engineer @ XP Inc.**.
-**Skilled in .Net, Angular, NodeJS, MongoDB, Mean Stack, RESTfull API’s.**.
+**Skilled in .Net, Angular, NodeJS, MongoDB, Mean Stack, dotNet Core RESTfull API’s.**.
 
 [![Linkedin: Maia](https://img.shields.io/badge/-Maia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafmaia/)](https://www.linkedin.com/in/rafmaia/)
 [![GitHub Maia](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/raafamaia)
